@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="jupyter-autodl-container-76e311833c-7ffce81f-85f5a266c308744cab853b57fb95ef298efb5be076fd647e4b62642e99e7131e2" />
+          <option name="urlString" value="https://a35405-833c-7ffce81f.westa.seetacloud.com:8443/jupyter/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="jupyter-autodl-container-76e311833c-7ffce81f-85f5a266c308744cab853b57fb95ef298efb5be076fd647e4b62642e99e7131e2" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/InGram.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="jupyter-autodl-container-76e311833c-7ffce81f-85f5a266c308744cab853b57fb95ef298efb5be076fd647e4b62642e99e7131e2" />
+              <option name="urlString" value="https://a35405-833c-7ffce81f.westa.seetacloud.com:8443/jupyter/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="jupyter-autodl-container-76e311833c-7ffce81f-85f5a266c308744cab853b57fb95ef298efb5be076fd647e4b62642e99e7131e2" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../codeWork/myGoodProjects/pythonCode/Huggingface_Toturials/.idea/Huggingface_Toturials.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="53308" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../codeWork/myGoodProjects/pythonCode/RGCN_pytorch-master/.idea/RGCN_pytorch-master.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

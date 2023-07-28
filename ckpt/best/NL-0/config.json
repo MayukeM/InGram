@@ -1,0 +1,1 @@
+{"learning_rate": 0.0005, "num_layer_ent": 3, "num_layer_rel": 2, "dimension_entity": 32, "hidden_dimension_ratio_entity": 4, "dimension_relation": 32, "hidden_dimension_ratio_relation": 1, "num_epoch": 10000, "validation_epoch": 200, "num_head": 8, "num_neg": 10, "num_bin": 10, "margin": 2.5}
